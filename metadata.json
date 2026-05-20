@@ -1,0 +1,6 @@
+{
+  "name": "Eurovision 2026 Quiz",
+  "description": "Partecipa al quiz Eurovision 2026. Indovina i testi delle canzoni e metti alla prova la tua cultura generale musicale!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
